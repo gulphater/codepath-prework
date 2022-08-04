@@ -7,7 +7,7 @@ Also, the background is made clickable so that user can reset all changes if he/
 
 ### App Walk-though
 
-<img src="(https://recordit.co/FmacRjyhcb)" width=200><br>
+<img src="[(https://recordit.co/FmacRjyhcb)]" width=200><br>
 
 
 ### Required User Stories
