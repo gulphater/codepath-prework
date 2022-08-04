@@ -7,9 +7,8 @@ Also, the background is made clickable so that user can reset all changes if he/
 
 ### App Walk-though
 
-<img src="https://recordit.co/FmacRjyhcb" width=200><br>
+<img src="[https://recordit.co/FmacRjyhcb]" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
